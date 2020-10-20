@@ -8,7 +8,7 @@
 </head>
 <body>
 
-	<hearder>
+	<hearder> 헤더입니다
 	</hearder>
 	<article>
 	</article>
